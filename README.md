@@ -2,7 +2,7 @@
 
 ### Get Started
 
-(Code will be uploaded soon)
+(Code will be available soon)
 
 ### Results
 
